@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-This is a Restricted Boltzmann Machine (RBM) used to recommend movies! It is a very cool unsupervised learning AI, and I would recommend anyone interested to read up on Boltzmann Machines. A good article is this: https://skymind.ai/wiki/restricted-boltzmann-machine.
+This is a Restricted Boltzmann Machine (RBM) used to recommend movies! It is a very cool unsupervised learning AI, and I would recommend anyone interested to read up on Boltzmann Machines. A good article on the topic: https://skymind.ai/wiki/restricted-boltzmann-machine.
 
 I achieved an accuracy of 0.75, meaning 3/4 movies are recommended correctly.
 
